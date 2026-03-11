@@ -1,0 +1,16 @@
+{
+"short_name": "翻篇",
+"name": "翻篇 FLIP · 治愈系金句",
+"icons": [
+{
+"src": "/icon-512.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+],
+"start_url": ".",
+"display": "standalone",
+"background_color": "#fcfcfd",
+"theme_color": "#2dd4bf"
+}
+
